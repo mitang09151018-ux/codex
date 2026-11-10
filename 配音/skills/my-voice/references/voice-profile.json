@@ -1,0 +1,16 @@
+{
+  "name": "我自己的音色",
+  "provider": "elevenlabs",
+  "voice_id": "MkNCsFZgxqCFpC0n3ntG",
+  "model_id": "eleven_multilingual_v2",
+  "output_format": "mp3_44100_128",
+  "voice_settings": {
+    "stability": 0.6,
+    "similarity_boost": 0.8,
+    "style": 0.1,
+    "use_speaker_boost": true,
+    "speed": 1.0
+  },
+  "api_key_env": "ELEVENLABS_API_KEY",
+  "notes": "用户自有克隆音色。此配置引用ElevenLabs账户中的音色，不包含声音模型或API密钥。"
+}

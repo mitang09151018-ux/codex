@@ -1,0 +1,12 @@
+.env
+.env.*
+key.txt
+*api-key*
+*.mp3
+*.wav
+*.m4a
+*.alignment.json
+audio/
+outputs/
+__pycache__/
+.DS_Store

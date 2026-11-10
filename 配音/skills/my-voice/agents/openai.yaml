@@ -1,0 +1,4 @@
+interface:
+  display_name: "我的配音"
+  short_description: "复用已确认的本人克隆音色和参数，保留原稿生成配音及真实时间戳"
+  default_prompt: "使用 $my-voice，按我的原稿生成配音，并复用已保存的音色参数。"
